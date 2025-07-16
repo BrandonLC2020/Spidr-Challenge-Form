@@ -15,4 +15,4 @@ This contains everything you need to run this lightweight React app locally.
 
 ## Public Viewing Link
 
-Open the following link in your browser: [Public Link](https://www.example.comhttps://brandonlc2020.github.io/Spidr-Challenge-Form/)
+Open the following link in your browser: [Public Link](https://brandonlc2020.github.io/Spidr-Challenge-Form/)
